@@ -67,4 +67,4 @@ Focado em velocidade e baixa latência, ideal para transmissões rápidas onde a
 
 ## Desenvolvimento
 
-Esse projeto foi desenvolvido para a disciplina 'Conectividade de Sistema Ciberfísicos', cursada no 2° Período do curso de Bacharelado em Ciência da Computação. O tema abordado é Redes de Computadores e Internet das Coisas.
+Esse projeto foi desenvolvido para a disciplina 'Conectividade de Sistemas Ciberfísicos', cursada no 2° Período do curso de Bacharelado em Ciência da Computação. O tema abordado é Redes de Computadores e Internet das Coisas.
