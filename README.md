@@ -2,6 +2,10 @@
 
 Este repositório contém um sistema de comunicação em rede que integra clientes **ESP32** e scripts **Python** utilizando os protocolos **TCP** e **UDP**. O projeto demonstra a diferença entre protocolos de transporte, implementando um chat multi-cliente e um sistema de monitoramento de sensores em tempo real.
 
+## 🎥 Vídeo do Projeto
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-V-fMgN8Yw?si=b3sWkbzd0oM0Dug5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## 📂 Estrutura do Projeto
 
 O projeto está dividido em três pilares principais:
